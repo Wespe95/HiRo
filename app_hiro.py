@@ -4,12 +4,7 @@ import pandas as pd
 import geopandas as gpd
 import plotly.express as px
 import os
-import sys
-sys.path.append("./src/heat_waves")
-import data_tools as data_tools
-import plots as plot_lib
 import numpy as np
-
 
 st.set_page_config(layout="wide")
 
