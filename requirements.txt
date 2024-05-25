@@ -1,0 +1,7 @@
+# Generic
+ipykernel
+ipywidgets
+nbformat
+jupyter 
+pandas
+geopandas
